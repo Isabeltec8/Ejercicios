@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>Ejercicio de introducción a HTML en openBootcamp</title>
+    </head>
+    <body>
+        <!--Este es mi primer comentario de dos líneas
+        Aprendiendo a documentar mi código con OpenBootcamp-->
+        <div>
+            <h1>Listas </h1>
+            <h2>Videos de Youtube</h2>
+            <ul>
+                
+                    <li><a href="https://www.youtube.com/watch?v=oOni4BMeMp0">Chris Brown - No Guidance (Audio) ft. Drake</a></li>   
+                    <li><a href="https://www.youtube.com/watch?v=OlStmta0Vh4">The Weeknd - I Was Never There </a></li>
+                    <li><a href="https://www.youtube.com/watch?v=n9ta1Pgeu80">SEVENTEEN - To yo </a></li>
+                
+            </ul>
+        </div>
+    </body>
+
+</html>
